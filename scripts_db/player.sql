@@ -1,0 +1,2 @@
+CREATE TABLE Player(id INTEGER PRIMARY KEY AUTOINCREMENT,name VARCHAR(30),position VARCHAR(30),age INTEGER);
+INSERT INTO Player(name,position,age) VALUES('A','B',2);

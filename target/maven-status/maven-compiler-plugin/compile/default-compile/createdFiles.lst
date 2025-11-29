@@ -1,0 +1,16 @@
+com\daoexample\daos\AulaDao.class
+com\daoexample\models\Alumno.class
+com\daoexample\daos\AlumnoDao.class
+com\daoexample\daos\data.class
+com\daoexample\models\Profesor.class
+com\daoexample\daos\ProfesorDao.class
+com\daoexample\daos\AsignaturaAulaDao.class
+com\daoexample\models\Asignatura.class
+com\daoexample\daos\MatriculaDao.class
+com\daoexample\models\AsignaturaAula.class
+com\daoexample\daos\AsignaturaDao.class
+com\daoexample\daos\CursoDao.class
+com\daoexample\models\Matricula.class
+com\daoexample\util\GlobalLogger.class
+com\daoexample\models\Curso.class
+com\daoexample\models\Aula.class
